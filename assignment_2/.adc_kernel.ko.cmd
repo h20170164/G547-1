@@ -1,0 +1,1 @@
+cmd_/home/jainil/G547/assignment_2/adc_kernel.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jainil/G547/assignment_2/adc_kernel.ko /home/jainil/G547/assignment_2/adc_kernel.o /home/jainil/G547/assignment_2/adc_kernel.mod.o
