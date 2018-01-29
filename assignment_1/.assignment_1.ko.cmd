@@ -1,0 +1,1 @@
+cmd_/home/jainil/G547/assignment_1/assignment_1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jainil/G547/assignment_1/assignment_1.ko /home/jainil/G547/assignment_1/assignment_1.o /home/jainil/G547/assignment_1/assignment_1.mod.o
